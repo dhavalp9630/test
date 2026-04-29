@@ -2,7 +2,7 @@
   "feather": {
     "platform": "Feather",
     "logo": "https://cdn.prod.website-files.com/69e855a3bcb7955a620bbc2b/69f07665fa6524c5c3638745_feather.svg",
-    "licence": "https://github.com/feathericons/feather/blob/main/LICENSE",
+    "license": "https://github.com/feathericons/feather/blob/main/LICENSE",
     "icons": [
       {
         "name": "activity",
@@ -1444,7 +1444,7 @@
   "phosphor": {
     "platform": "Phosphor",
     "logo": "https://cdn.prod.website-files.com/69e855a3bcb7955a620bbc2b/69f0766488aa1ed42117ff83_phosphor.svg",
-    "licence": "https://github.com/phosphor-icons/homepage/blob/master/LICENSE",
+    "license": "https://github.com/phosphor-icons/homepage/blob/master/LICENSE",
     "icons": [
       {
         "name": "acorn",
